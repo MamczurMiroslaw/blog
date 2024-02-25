@@ -1,9 +1,10 @@
 # macOS
 .DS_Store
 
-# Byte-compiled / optimized / DLL files
+# python & notebooks compile files and folders
 __pycache__/
 *.py[cod]
+.ipynb_checkpoints/
 
 # PyCharm
 .idea/
